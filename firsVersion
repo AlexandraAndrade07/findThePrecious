@@ -1,0 +1,157 @@
+<!DOCTYPE>
+<html>
+  <head>
+      <meta charset="UTF-8"/>
+      <title>FindThePrecious</title>
+      <link rel="stylrsheet" href="style.css"
+  </head>
+  <body>
+    <div id="bloc_page">
+      <header>
+        <nav>
+            <a href="#FindThePrecious">FindThePrecious.com</a></li>
+            <a href="#Fellows">Fellows</a></li>
+            <a href="#TheRing">The Ring</li>
+            <a href="#GetMyReward">Get my reward</a></li>
+            <a href="#BestHunters">Best Hunters</a></li>
+            <a href="#JoinTheArmy">Join the army</a></li>
+            <a href="#ContactUs">Contact Us</a></li> 
+        </nav>  
+      </header>
+      <div id="banniere_image">
+        <h4>Dangerous fellowship try to destroy the ring</h4>
+        <h6>Orcs,Goblins, Balrogs, protect your master Sauron</h6>
+      </div>
+      <section>
+        <div id="followsWanted">
+          <h4>Fellows wanted dead</h4><h6>(or alive if you want to eat them later)</h6>
+            <a href="#mostWanted"><h5>Most Wanted</h5></a>
+            <a href="#mostDangerous"><h5>Most Dangerous</h5></a>
+            <a href="#alreadyCaptured"><h5>Already captured</h5></a>
+            <div id="mainCharacters">
+                <div id ="TheWazard">
+                  <h6>Reward 1000 gold coins</h6>
+                    <img src="sourceImag"
+                         alt="photoTheWizard">
+                    <h4>The Wizard</h4>
+                    <p><h6>Small description</h6></p>
+                </div>
+                <div id ="Dead">
+                  <h3>DEAD</h3>
+                    <img src="sourceImag"
+                         alt="photoDead">
+                    <h4>Hobbit #3</h4>
+                    <p><h6>Small description</h6></p>
+                </div>
+                <div id ="Yummy Dwarf">
+                  <h6>Reward 250 gold coinss</h6>
+                  <img src="sourceImag"
+                       alt="photoYummy">
+                  <h4>Yummy Dwarf</h4>
+                  <p><h6>Small description</h6></p>
+                </div>
+            </div>
+        </div>
+      </section>
+      <section>
+         <div id="GetMyReward">
+          <h3>I have catured one ofthem how to get my reward?</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc maximus, nulla ut commodo sagittis, sapien dui mattis dui, non pulvinar lorem felis nec erat. Aliquam egestas, velit at condimentum placerat, sem sapien laoreet mauris, dictum porttitor lacus est nec enim. Vivamus feugiat elit lorem, eu porttitor ante ultrices id. Phasellus suscipit tellus ante, nec dignissim elit imperdiet nec. Nullam fringilla feugiat nisl. Ut pretium, metus venenatis dictum viverra, dui metus finibus enim, ac rhoncus sem lorem vitae mauris. Suspendisse ut venenatis libero. Suspendisse lorem felis, pretium in maximus id, tempor non ipsum</p>
+           <figure>
+             <img src"sourceImage"
+                  alt="ImageCaptured">
+             <button type="button">Contact us</button>
+           </figure> 
+         </div>
+      </section>
+      <section>
+        <!--le remplisage de cet espace sera fait par des scripts qui vont manipuler des infos qui proviennent des social networks, ce sont des valeurs previsoirs -->
+         <div id="BestHunters">
+         <h4>Best hunters</h4>
+            <div id="champHunter1">
+              <img src="ImageBestHunter1"
+                   alt"ImageBestHunter1">
+               <h5>ElverKiller22<h5></br>
+               <h6>2 captures-</h6><a href="">Profile</a></br>
+               <button type="button">likes65k</button>
+            </div>
+            <div id="champHunter2">
+              <img src="ImageBestHunter2"
+                   alt"ImageBestHunter2">
+                <h5>Gobling45<h5></br>
+                <h6>1 captures-</h6><a href="">Profile</a></br>
+                <button type="button">likes85k</button>
+            </div>  
+           </div>
+      </section>
+      <section>
+         <div id="TheRing">
+         <h4>About the ring</h4>
+           <section>
+             <div id=ringCapabilities>
+              <h3>Ring capabilities</h3>
+              <h5>What can our master Sauron do whit the ring?</h5>
+               <table>
+                 <tr>
+                     <td>Feature</td>
+                     <td>Description</td>
+                 </tr>
+                 <tr>
+                     <td>Main</td>
+                     <td>One ring to rules them all</td>
+                 </tr>
+                 <tr>
+                     <td>Invisibility</td>
+                     <td>You can't see me</td>
+                 </tr>
+                 <tr>
+                     <td>Power</td>
+                     <td>Destroy the world</td>
+                 </tr>
+               </table>
+             </div>
+           </section>
+           <section>
+             <div id="WhytheRing">
+              <h3>Why the ring is awesome?</h3>
+              <p><h5>My preciooooooussssss! Hrk Hrk. we want our preeciooooouuuss!!</h5><h4>Goullum</h4></p>
+              <button type="button">More info on SauronRulesThemAll</button>
+             </div>
+           </section>
+         </div>  
+      </section>
+      <section>
+         <h4>Join Mordor Army, we need you</h4>
+         <div id="JoinTheArmy">
+           <img src="sourceMordor"
+                alt="PhotoMordor">
+           <p>Ut pretium, metus venenatis dictum viverra, dui metus finibus enim, ac rhoncus sem lorem vitae mauris. Suspendisse ut venenatis libero. Suspendisse lorem felis, pretium in maximus id, tempor non ipsum Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc maximus, nulla ut commodo sagittis, sapien dui mattis dui, non pulvinar lorem felis nec erat. Aliquam egestas, velit at condimentum placerat, sem sapien laoreet mauris, dictum porttitor lacus est nec enim. Vivamus feugiat elit lorem, eu porttitor ante ultrices id. Phasellus suscipit tellus ante, nec dignissim elit imperdiet nec. Nullam fringilla feugiat nisl. Ut pretium, metus venenatis dictum viverra, dui metus finibus enim, ac rhoncus sem lorem vitae mauris.</p>
+           
+         </div>  
+      </section> 
+      <section>
+          <div id="ContactUs">
+          <h4>Contact us</h4>
+            <form method="post" action="traitement.php">
+              <p>
+                <label for="email"></label>
+                <input type="email" name"email" id="email" placeholder="@"/>
+                <label for="adress"></label>
+                <input type="number" name"adress" id="adress" placeholder="adress"/>
+                <label for="text_area">I have seen one of them</label>
+                <input type="text_area" name"yourMessage" id="text_area" placeholder="Your message"/>
+              </p>
+          </div>  
+      </section>
+      <footer>
+        <div>
+          <a href="#AboutUs"><h6>About us</h6></a>
+          <a href="#mostDangerous"><h6>Most Dangerous</h6></a>
+          <a href="#alreadyCaptured"><h6>Already captured</h6></a>
+          <a href="#AboutUs"><h6>About us</h6></a>
+          <a href="#mostDangerous"><h6>Most Dangerous</h6></a>
+          <a href="#alreadyCaptured"><h6>Already captured</h6></a>
+        </div>  
+      </footer>  
+    </div>
+  </body>  
